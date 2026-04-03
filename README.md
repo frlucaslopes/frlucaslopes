@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá! Sou o FRLUCASLOPES 👋
+💡 Engenheiro de Dados em formação, com foco prático na construção de pipelines de dados escaláveis e orientados a negócio.
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/0850f763-4565-48cb-b464-b4ebe28a4ad5" />
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/52634811-8982-41c0-bad7-59dd7480dc5b" />
 
 <!--
 **frlucaslopes/frlucaslopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
