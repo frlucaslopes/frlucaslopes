@@ -1,9 +1,15 @@
-## Olá! Sou o FRLUCASLOPES 👋
+## Olá! Sou o Lucas 👋
 💡 Engenheiro de Dados em formação, com foco prático na construção de pipelines de dados escaláveis e orientados a negócio.
 
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/0850f763-4565-48cb-b464-b4ebe28a4ad5" />
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/52634811-8982-41c0-bad7-59dd7480dc5b" />
+🚀 Desenvolvendo soluções completas de ingestão, transformação e análise de dados.
 
+📊 Experiência com ETL/ELT, modelagem de dados, automação de pipelines e criação de dashboards com Streamlit.
+
+🔗 Contato
+
+💼 LinkedIn: https://www.linkedin.com/in/frlucaslopes/
+
+📧 Email: fr.lucasmartins7@gmail.com | frlucaslopes.dataengineer@gmail.com
 <!--
 **frlucaslopes/frlucaslopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
