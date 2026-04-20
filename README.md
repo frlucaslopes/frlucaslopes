@@ -9,7 +9,7 @@
 
 💼 LinkedIn: https://www.linkedin.com/in/frlucaslopes/
 
-📧 Email: fr.lucasmartins7@gmail.com | frlucaslopes.dataengineer@gmail.com
+📧 Email: fr.lucasmartins7@gmail.com 
 <!--
 **frlucaslopes/frlucaslopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
