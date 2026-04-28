@@ -29,11 +29,11 @@ Atualmente desenvolvendo e evoluindo pipelines de dados completos, com foco em a
 
 ## Projetos em destaque
 
-🔹 Fintech Data Pipeline
+* Fintech Data Pipeline
 Pipeline completo simulando operações de uma fintech, com geração de métricas de negócio e dashboard interativo.
 ➡️ Em evolução para orquestração com Airflow e execução via Docker
 
-🔹 Pipeline com Testes e CI/CD
+* Pipeline com Testes e CI/CD
 Projeto focado em boas práticas de engenharia de dados: testes automatizados, versionamento e integração contínua
 
 ---
