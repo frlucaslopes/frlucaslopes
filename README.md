@@ -17,7 +17,7 @@ Atualmente desenvolvendo e evoluindo pipelines de dados completos, com foco em a
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 **Linguagens:** Python, SQL
 **Engenharia de Dados:** ETL/ELT, Data Pipelines, Modelagem de Dados
@@ -27,7 +27,7 @@ Atualmente desenvolvendo e evoluindo pipelines de dados completos, com foco em a
 
 ---
 
-## 📊 Projetos em destaque
+## Projetos em destaque
 
 🔹 Fintech Data Pipeline
 Pipeline completo simulando operações de uma fintech, com geração de métricas de negócio e dashboard interativo.
