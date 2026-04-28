@@ -19,11 +19,11 @@ Atualmente desenvolvendo e evoluindo pipelines de dados completos, com foco em a
 
 ## Stack
 
-**Linguagens:** Python, SQL
-**Engenharia de Dados:** ETL/ELT, Data Pipelines, Modelagem de Dados
-**Ferramentas:** Airflow (em evolução), Docker (em evolução), Streamlit
-**Qualidade:** Pytest, CI/CD
-**Cloud:** Azure (prática), AWS (conceitos)
+Linguagens: Python, SQL
+Engenharia de Dados: ETL/ELT, Data Pipelines, Modelagem de Dados
+Ferramentas: Airflow (em evolução), Docker (em evolução), Streamlit
+Qualidade: Pytest, CI/CD
+Cloud: Azure (prática), AWS (conceitos)
 
 ---
 
