@@ -26,13 +26,13 @@ Engenheiro de Dados focado na construção de pipelines, arquitetura de dados e 
 
 ## Projetos em destaque
 
-🔹 * Fintech Data Pipeline  
+🔹 Fintech Data Pipeline  
 Pipeline end-to-end simulando operações de fintech com arquitetura Medallion e métricas de negócio.
 
-🔹 * Pipeline com Testes e CI/CD  
+🔹 Pipeline com Testes e CI/CD  
 Projeto focado em qualidade, testes automatizados e integração contínua.
 
-🔹 * Azure Data Engineering Pipeline 
+🔹 Azure Data Engineering Pipeline 
 Pipeline em ambiente cloud utilizando Data Factory e Data Lake Storage.
 
 ## Contato
