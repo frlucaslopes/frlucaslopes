@@ -22,7 +22,7 @@ Engenheiro de Dados focado na construção de pipelines, arquitetura de dados e 
 
 * Ferramentas: Airflow · Docker · GitHub Actions · PostgreSQL
 
-* Cloud: Azure · AWS
+* Cloud Computing: Azure · AWS · GCP
 
 ## Projetos em destaque
 
