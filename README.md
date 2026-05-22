@@ -33,7 +33,7 @@ Pipeline end-to-end simulando operações de fintech com arquitetura Medallion e
 Projeto focado em qualidade, testes automatizados e integração contínua.
 
 🔹 Cloud Fundamentals Azure  
-Pipeline em ambiente cloud utilizando Data Factory e Data Lake Storage Gen 2.
+Pipeline em ambiente cloud utilizando Data Factory e Data Lake Storage Gen2.
 
 ## Contato
 
