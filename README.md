@@ -1,12 +1,12 @@
-## Olá! Sou o Lucas 👋
+# Olá! Sou o Lucas 👋
 
 Engenheiro de Dados focado na construção de pipelines escaláveis, arquiteturas Lakehouse e soluções orientadas a negócio.
 
 # O que estou construindo
 
-🔄 Pipelines end-to-end (ingestão → transformação → consumo)
+## 🔄 Pipelines end-to-end (ingestão → transformação → consumo)
 
-🏗️ Arquiteturas Lakehouse (Bronze → Silver → Gold)
+## 🏗️ Arquiteturas Lakehouse (Bronze → Silver → Gold)
 
 📊 Soluções analíticas com SQL, PySpark e Databricks
 
