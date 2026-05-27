@@ -1,41 +1,45 @@
-# Olá! Sou o Lucas 👋
+Olá! Sou o Lucas 👋
 
-Engenheiro de Dados focado na construção de pipelines, arquitetura de dados e soluções escaláveis orientadas a negócio.
+Engenheiro de Dados focado na construção de pipelines escaláveis, arquiteturas Lakehouse e soluções orientadas a negócio.
 
----
-
-## O que estou construindo
+O que estou construindo
 
 🔄 Pipelines end-to-end (ingestão → transformação → consumo)
 
-⚙️ Arquiteturas de dados em camadas (Bronze, Silver e Gold)
+🏗️ Arquiteturas Lakehouse (Bronze → Silver → Gold)
 
-☁️ Soluções cloud e processamento de dados
+📊 Soluções analíticas com SQL, PySpark e Databricks
 
-🧪 Testes automatizados, CI/CD e boas práticas de engenharia
+🔍 Data Quality, Observabilidade e boas práticas de engenharia
 
-## Stack
+☁️ Soluções em Cloud e processamento distribuído
 
-* Linguagens: Python · SQL
+Stack
 
-* Data Engineering: ETL/ELT · Data Pipelines · PySpark · Databricks · dbt
+Linguagens:
+Python · SQL
 
-* Ferramentas: Airflow · Docker · GitHub Actions · PostgreSQL
+Data Engineering:
+ETL/ELT · Data Pipelines · PySpark · Apache Spark · Databricks · Delta Lake
 
-* Cloud Computing: Azure · AWS · GCP
+Ferramentas:
+Databricks Workflows · Airflow · Docker · GitHub Actions · PostgreSQL · Streamlit
 
-## Projetos em destaque
+Cloud Computing:
+Azure · AWS
 
-🔹 Fintech Data Pipeline  
-Pipeline end-to-end simulando operações de fintech com arquitetura Medallion e métricas de negócio.
+Projetos em destaque
 
-🔹 Pipeline com Testes e CI/CD  
-Projeto focado em qualidade, testes automatizados e integração contínua.
+🔹 SaaS Big Data Platform
+Plataforma SaaS B2B construída com arquitetura Lakehouse processando ~2,78 milhões de registros com PySpark, SQL Analytics, Data Quality, Observabilidade e Databricks Workflows.
 
-🔹 Cloud Fundamentals Azure  
-Pipeline em ambiente cloud utilizando Data Factory e Data Lake Storage Gen2.
+🔹 Fintech Data Pipeline
+Pipeline end-to-end simulando operações financeiras com arquitetura Medallion e métricas de negócio.
 
-## Contato
+🔹 Azure Data Engineering Pipeline
+Pipeline em ambiente cloud utilizando Azure Data Factory e Data Lake Storage Gen2.
 
-💼 LinkedIn: linkedin.com/in/frlucaslopes  
+Contato
+
+💼 LinkedIn: linkedin.com/in/frlucaslopes
 📧 Email: frlucaslopes.dataengineer@gmail.com
