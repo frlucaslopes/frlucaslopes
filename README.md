@@ -23,7 +23,7 @@ Data Engineering:
 ETL/ELT · Data Pipelines · PySpark · Apache Spark · Databricks · Delta Lake
 
 Ferramentas:
-Databricks Workflows · Airflow · Docker · GitHub Actions · PostgreSQL · Streamlit
+Databricks Workflows · Airflow · Docker · dbt · GitHub Actions · PostgreSQL · Streamlit
 
 Cloud Computing:
 Azure · AWS
