@@ -2,30 +2,30 @@
 
 Engenheiro de Dados focado na construção de pipelines escaláveis, arquiteturas Lakehouse e soluções orientadas a negócio.
 
-## O que estou construindo
+# O que estou construindo
 
-## 🔄 Pipelines end-to-end (ingestão → transformação → consumo)
+🔄 Pipelines end-to-end (ingestão → transformação → consumo)
 
-## 🏗️ Arquiteturas Lakehouse (Bronze → Silver → Gold)
+🏗️ Arquiteturas Lakehouse (Bronze → Silver → Gold)
 
-## 📊 Soluções analíticas com SQL, PySpark e Databricks
+📊 Soluções analíticas com SQL, PySpark e Databricks
 
-## 🔍 Data Quality, Observabilidade e boas práticas de engenharia
+🔍 Data Quality, Observabilidade e boas práticas de engenharia
 
-## ☁️ Soluções em Cloud e processamento distribuído
+☁️ Soluções em Cloud e processamento distribuído
 
 # Stack
 
-# Linguagens:
+Linguagens:
 Python · SQL
 
-# Data Engineering:
+Data Engineering:
 ETL/ELT · Data Pipelines · PySpark · Apache Spark · Databricks · Delta Lake
 
-# Ferramentas:
+Ferramentas:
 Databricks Workflows · Airflow · Docker · GitHub Actions · PostgreSQL · Streamlit
 
-# Cloud Computing:
+Cloud Computing:
 Azure · AWS
 
 # Projetos em destaque
