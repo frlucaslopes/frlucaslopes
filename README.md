@@ -39,7 +39,8 @@ Pipeline end-to-end simulando operações financeiras com arquitetura Medallion 
 🔹 Azure Data Engineering Pipeline
 Pipeline em ambiente cloud utilizando Azure Data Factory e Data Lake Storage Gen2.
 
-Contato
+# Contato
 
 💼 LinkedIn: linkedin.com/in/frlucaslopes
+
 📧 Email: frlucaslopes.dataengineer@gmail.com
