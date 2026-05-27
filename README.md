@@ -1,4 +1,4 @@
-Olá! Sou o Lucas 👋
+## Olá! Sou o Lucas 👋
 
 Engenheiro de Dados focado na construção de pipelines escaláveis, arquiteturas Lakehouse e soluções orientadas a negócio.
 
