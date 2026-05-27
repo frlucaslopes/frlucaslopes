@@ -2,9 +2,9 @@
 
 Engenheiro de Dados focado na construção de pipelines escaláveis, arquiteturas Lakehouse e soluções orientadas a negócio.
 
-# O que estou construindo
+## O que estou construindo
 
-# 🔄 Pipelines end-to-end (ingestão → transformação → consumo)
+### 🔄 Pipelines end-to-end (ingestão → transformação → consumo)
 
 # 🏗️ Arquiteturas Lakehouse (Bronze → Silver → Gold)
 
