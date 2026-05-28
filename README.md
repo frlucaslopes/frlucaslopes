@@ -1,4 +1,4 @@
-# Olá! Sou o Lucas 👋
+# Lucas M. Lopes — Engenheiro de Dados
 
 Engenheiro de Dados focado na construção de pipelines escaláveis, arquiteturas Lakehouse e soluções orientadas a negócio.
 
