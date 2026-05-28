@@ -6,7 +6,7 @@ Engenheiro de Dados focado na construção de pipelines escaláveis, arquitetura
 
 🔄 Pipelines end-to-end (ingestão → transformação → consumo)
 
-🏗️ Arquiteturas Lakehouse (Bronze → Silver → Gold)
+🏗️ Arquiteturas Lakehouse
 
 📊 Soluções analíticas com SQL, PySpark e Databricks
 
