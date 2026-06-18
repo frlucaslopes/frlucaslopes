@@ -34,7 +34,7 @@ Azure · AWS
 Plataforma SaaS B2B construída com arquitetura Lakehouse processando ~2,78 milhões de registros com PySpark, SQL Analytics, Data Quality, Observabilidade e Databricks Workflows.
 
 🔹 API Data Ingestion Pipeline:
-Pipeline de ingestão de dados construído com Python e Apache Airflow, automatizando a coleta de dados de APIs REST através de DAGs, com tratamento de falhas, observabilidade, persistência de dados e preparação para fluxos ETL/ELT. 
+Pipeline de dados construído com Python e Apache Airflow, automatizando a ingestão de APIs REST através de DAGs, com observabilidade e preparação para fluxos ETL/ELT.
 
 🔹 Fintech Data Pipeline:
 Pipeline end-to-end simulando operações financeiras com arquitetura Medallion e métricas de negócio.
