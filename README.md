@@ -30,16 +30,16 @@ Azure · AWS
 
 # Projetos em destaque
 
-🔹 SaaS Big Data Platform
+🔹 SaaS Big Data Platform:
 Plataforma SaaS B2B construída com arquitetura Lakehouse processando ~2,78 milhões de registros com PySpark, SQL Analytics, Data Quality, Observabilidade e Databricks Workflows.
 
-🔹 API Data Ingestion Pipeline
+🔹 API Data Ingestion Pipeline:
 Pipeline de ingestão de dados construído com Python e Apache Airflow, automatizando a coleta de dados de APIs REST através de DAGs, com tratamento de falhas, observabilidade, persistência de dados e preparação para fluxos ETL/ELT. 
 
-🔹 Fintech Data Pipeline
+🔹 Fintech Data Pipeline:
 Pipeline end-to-end simulando operações financeiras com arquitetura Medallion e métricas de negócio.
 
-🔹 Azure Data Engineering Pipeline
+🔹 Azure Data Engineering Pipeline:
 Pipeline em ambiente cloud utilizando Azure Data Factory e Data Lake Storage Gen2.
 
 # Contato
